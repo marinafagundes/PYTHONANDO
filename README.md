@@ -42,7 +42,7 @@ venv\Scripts\Activate
 * Caso algum comando retorne um erro de permissão execute o código e tente novamente:
 
    
-Set-ExecutionPolicy Scope CurrentUser ExecutionPolicy RemoteSigned
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned 
 
 
 * Agora vamos fazer a instalação das bibliotecas necessárias:
