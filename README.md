@@ -12,13 +12,13 @@ Todos os projetos do evento 4 Days 4 Projects, promovido pela Pythonando | Fever
 * Primeiro devemos criar o ambiente virtual: 
 
 
-** Linux  
+--> Linux  
 
 
 python3 -m venv venv  
 
 
-** Windows  
+--> Windows  
 
 
 python -m venv venv  
@@ -27,13 +27,13 @@ python -m venv venv
 * Após a criação do venv vamos ativa-lo:
 
  
-** Linux  
+--> Linux  
 
 
 source venv/bin/activate 
 
 
-** Windows  
+--> Windows  
 
 
 venv\Scripts\Activate  
@@ -59,13 +59,13 @@ pip install sqlmodel
 * Primeiro devemos criar o ambiente virtual:  
 
 
-** Linux  
+--> Linux  
 
 
 python3 -m venv venv  
 
 
-** Windows  
+--> Windows  
 
 
 python -m venv venv  
@@ -74,13 +74,13 @@ python -m venv venv
 * Após a criação do venv vamos ativa-lo:
 
   
-** Linux 
+--> Linux 
 
 
 source venv/bin/activate
 
 
-** Windows  
+--> Windows  
 
 
 venv\Scripts\Activate  
@@ -126,13 +126,13 @@ python manage.py makemigrations
 * Primeiro devemos criar o ambiente virtual:
 
   
-** Linux  
+--> Linux  
 
 
 python3 -m venv venv  
 
 
-** Windows 
+--> Windows 
 
 
 python -m venv venv  
@@ -141,13 +141,13 @@ python -m venv venv
 * Após a criação do venv vamos ativa-lo:
 
   
-** Linux  
+--> Linux  
 
 
 source venv/bin/activate  
 
 
-** Windows  
+--> Windows  
 
 
 venv\Scripts\Activate  
@@ -193,13 +193,13 @@ python manage.py makemigrations
 * Primeiro devemos criar o ambiente virtual:
 
 
-** Linux  
+--> Linux  
 
 
 python3 -m venv venv  
 
 
-** Windows  
+--> Windows  
 
 
 python -m venv venv  
@@ -208,13 +208,13 @@ python -m venv venv
 * Após a criação do venv vamos ativa-lo:
 
    
-** Linux 
+--> Linux 
 
 
 source venv/bin/activate  
 
 
-** Windows  
+--> Windows  
 
 
 venv\Scripts\Activate 
