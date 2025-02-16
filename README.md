@@ -48,7 +48,8 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 * Agora vamos fazer a instalação das bibliotecas necessárias:
 
 
-pip install sqlmodel  
+pip install sqlmodel 
+pip install matplotlib  
 
 
 
