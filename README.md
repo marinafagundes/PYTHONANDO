@@ -104,7 +104,7 @@ Agora vamos fazer a instalação do Django e as demais bibliotecas:
 pip install flet
 pip install requests
 
-##### Esse projeto está relacionado ao projeto 3, por isso, é necessário que ele esteja rodando.
+#### Esse projeto está relacionado ao projeto 3, por isso, é necessário que ele esteja rodando.
 Rode o servidor para testar:
 python manage.py runserver
 
